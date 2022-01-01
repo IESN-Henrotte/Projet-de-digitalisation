@@ -1,0 +1,41 @@
+.main-header {
+  margin-bottom: 10px;
+}
+
+#main-title {
+  color: rgb(147, 64, 185);
+}
+
+#infos {
+  font-size: 14px;
+}
+
+table {
+  margin-top: 15px;
+}
+
+tbody tr {
+  transition: all 0.3s;
+}
+tbody tr:hover {
+  opacity: 0.9;
+}
+
+.no-problem {
+  background-color: rgb(182, 255, 182);
+}
+.error-class-produit-manquant {
+  background-color: rgb(250, 142, 109);
+}
+.error-class-produit-cite-plusieurs-fois {
+  background-color: rgb(199, 43, 108);
+}
+.error-class-produit-non-demande {
+  background-color: rgb(195, 166, 241);
+}
+.error-class-quantite-pas-assez-elevee {
+  background-color: rgb(201, 201, 201);
+}
+.error-class-quantite-trop-elevee {
+  background-color: rgb(131, 129, 252);
+}

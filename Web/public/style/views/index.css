@@ -1,0 +1,24 @@
+main {
+  justify-content: center;
+}
+
+#choices-container {
+  justify-content: center;
+  align-items: center;
+}
+
+.choice-button {
+  width: 100%;
+  padding: 20px 60px;
+  margin: 20px 0;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+}
+
+#bon-commande-button {
+  background-color: cornflowerblue;
+}
+#bon-livraison-button {
+  background-color: rgb(147, 64, 185);
+}

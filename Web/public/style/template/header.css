@@ -1,0 +1,31 @@
+nav {
+  height: 56px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 18px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  background-color: #417c25;
+  color: white;
+  text-transform: uppercase;
+}
+
+#nav-home {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: auto;
+  margin-right: auto;
+  padding-left: 5px;
+}
+#nav-home img {
+  height: 80%;
+  width: auto;
+  filter: invert(1);
+}
+
+#nav-title {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+}

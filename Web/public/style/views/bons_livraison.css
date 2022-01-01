@@ -1,0 +1,28 @@
+#main-title {
+  color: rgb(147, 64, 185);
+}
+
+#add-bon-livraison-button {
+  margin-top: 80px;
+  background-color: rgb(147, 64, 185);
+}
+
+#import-bon-livraison-button {
+  background-color: rgb(126, 126, 126);
+}
+
+.correct-bon-livraison {
+  background-color: rgb(150, 230, 150);
+}
+
+.incorrect-bon-livraison {
+  background-color: rgb(255, 157, 157);
+}
+
+tbody tr {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+tbody tr:hover {
+  opacity: 0.9;
+}

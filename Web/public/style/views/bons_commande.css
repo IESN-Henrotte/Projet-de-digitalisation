@@ -1,0 +1,19 @@
+#main-title {
+  color: cornflowerblue;
+}
+
+#add-bon-commande-button {
+  background-color: cornflowerblue;
+}
+
+#import-bon-commande-button {
+  background-color: rgb(126, 126, 126);
+}
+
+tbody tr {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+tbody tr:hover {
+  background-color: rgb(241, 241, 241);
+}

@@ -1,0 +1,33 @@
+#main-title {
+  color: cornflowerblue;
+}
+
+form {
+  margin-top: 30px;
+}
+
+#fournisseur-input-container {
+  margin-bottom: 18px;
+}
+#photo-input-container {
+  margin-bottom: 18px;
+}
+
+.product-inputs {
+  margin: 15px 0;
+}
+.product-input {
+  margin-right: 10px;
+}
+
+#new-product-button {
+  margin-top: 10px;
+}
+
+#submit-button {
+  margin-top: 40px;
+  border: 0;
+  padding: 6px 0;
+  color: white;
+  background-color: cornflowerblue;
+}
